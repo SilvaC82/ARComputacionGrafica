@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Muebles.unity
+    guid: fcf1ff9e8528eaf4c9997e5054f0d14b
   m_configObjects: {}
